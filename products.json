@@ -1,0 +1,57 @@
+[
+    {
+        "name": "iphone15",
+        "price": 1000,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15ProMax",
+        "price": 1600,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15Ultra",
+        "price": 1100,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15Pro",
+        "price": 1500,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 800,
+        "company": "apple"
+    },
+    {
+        "name": "s21ultra",
+        "price": 1000,
+        "company": "samsung"
+    },
+    {
+        "name": "s22ultra",
+        "price": 1200,
+        "company": "samsung"
+    },
+    {
+        "name": "miMixUltra",
+        "price": 1000,
+        "company": "mi"
+    },
+    {
+        "name": "mi12Pro",
+        "price": 600,
+        "company": "mi"
+    },
+    {
+        "name": "Nord3",
+        "price": 400,
+        "company": "oneplus"
+    },
+    {
+        "name": "Nord2",
+        "price": 300,
+        "company": "oneplus"
+    }
+]
