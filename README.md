@@ -1,5 +1,6 @@
 # REST1
   Build my first Api with REST and deployed it successfully on Railway app.
+  Used MongoDb for Database and Express as the framework for building.
 
 ## Try the following Queries : 
 
