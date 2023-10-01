@@ -1,5 +1,5 @@
 # REST1
-  Build my first Api with REST and deployed it successfully in Railway app.
+  Build my first Api with REST and deployed it successfully on Railway app.
 
 ## Try the following Queries : 
 
