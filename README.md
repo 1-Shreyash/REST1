@@ -5,11 +5,11 @@
 
 1) sort :
    
-  https://rest1-production-c512.up.railway.app/api/products?sort=company
+   https://rest1-production-c512.up.railway.app/api/products?sort=company
   
-  https://rest1-production-c512.up.railway.app/api/products?sort=name
+   https://rest1-production-c512.up.railway.app/api/products?sort=name
   
-  https://rest1-production-c512.up.railway.app/api/products?sort=price
+   https://rest1-production-c512.up.railway.app/api/products?sort=price
 
   
 3) select :
